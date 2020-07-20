@@ -1,6 +1,15 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import {MatTableModule, MatButtonModule, MatInputModule, MatToolbarModule, MatSidenavModule, MatIconModule, MatListModule, MatStepperModule, MatDialogModule} from '@angular/material';
+import {
+  MatTableModule,
+  MatButtonModule,
+  MatInputModule,
+  MatToolbarModule,
+  MatSidenavModule,
+  MatIconModule,
+  MatListModule,
+  MatStepperModule,
+  MatDialogModule} from '@angular/material';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { BrowserModule } from '@angular/platform-browser';
 

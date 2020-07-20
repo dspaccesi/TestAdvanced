@@ -13,11 +13,11 @@ export class ConfirmationComponent implements OnInit {
   ngOnInit() {
   }
 
-  OnCancelClick(): void{
+  OnCancelClick(): void {
     this.dialog.close();
   }
 
-  OnConfirmationClick(): void{
+  OnConfirmationClick(): void {
 
   }
 }

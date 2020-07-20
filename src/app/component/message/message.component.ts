@@ -12,7 +12,7 @@ export class MessageComponent implements OnInit {
 
   ngOnInit() {
   }
-  OnOkClick(){
+  OnOkClick() {
     this.dialog.close();
   }
 }
